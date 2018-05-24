@@ -7,7 +7,7 @@ from keras.optimizers import SGD
 numpy.random.seed(276635)
 
 exp_type = "decoder-encoder"
-exp_description = "biary_classification"
+exp_description = "binary_classification"
 display = 1
 save = 1
 
